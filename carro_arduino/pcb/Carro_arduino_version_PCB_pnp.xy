@@ -1,0 +1,23 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=Carro_arduino_version_PCB
+# Date=21:38:13
+# CreatedBy=Fritzing 1.0.1rc.2023-09-04.CD-1653-0-8d480a18
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Nano v3,";;;;;;;;","",796.207,1157.67,0,Top,MANUAL
+LED1,";;;;;;;;","1206 [SMD]",1296.21,1019.02,90,Top,SMT
+AMS,";;;;;;;;","",210.75,1455.15,0,Top,MANUAL
+Hc 05,";;;;;;;;","",846.207,-666.999,-90,Top,MANUAL
+servo,";;;;;;;;","THT",196.207,658.001,0,Top,THT
+L298N,";;;;;;;;","molex-1x6",786.207,1208,0,Top,SMT
+Vin,";;;9V;;;;;","",196.207,1808,0,Top,MANUAL
